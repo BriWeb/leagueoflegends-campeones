@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Datos obtenidos desde la API de League of Legends">
+  <link rel="icon" href="./assets/images/league_of_legends.live.ico">
+  <!-- FRAUNCES -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,100;0,200;0,300;0,400;1,100;1,200;1,300;1,400&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="./assets/main.css">
+  <title></title>
+</head>
+
+<body>
+  <audio id="theme"></audio>
+  <header class="presentation">
+    <img id="play-pause" src="./assets/images/play.svg" alt="play-pause">
+    <div class="controls controls--absolute">
+      <img src="./assets/images/true.svg" alt="desactivado" class="controls__image">
+      <input type="range" min="0" max="100" value="50" id="vol" class="controls__volumen">
+    </div>
+    <img class="presentation__splash">
+    <div class="presentation__short-info">
+      <ul class="presentation__name"></ul>
+      <p class="presentation__title"></p>
+    </div>
+  </header>
+  <main class="info">
+    <div class="info__data">
+      <div class="data__positions"></div>
+      <div class="data__rols"></div>
+      <p class="data__lore"></p>
+    </div>
+    <div class="info__abilities">
+      <h2 class="abilities__title">habilidades</h2>
+      <svg class="abilities__svg">
+        <path />
+        <path />
+        <path />
+        <path />
+        <path class="image-path" />
+        <path class="image-path" />
+        <path class="image-path" />
+      </svg>
+      <video class="abilities__video" controls muted autoplay></video>
+      <div class="abilities__images">
+        <img class="abilities__img" data-spell="0" name="selected">
+        <img class="abilities__img abilities__img--selected" data-spell="1">
+        <img class="abilities__img" data-spell="2">
+        <img class="abilities__img" data-spell="3">
+        <img class="abilities__img" data-spell="4">
+      </div>
+      <p class="abilities__name"></p>
+      <p class="abilities__description"></p>
+    </div>
+    <div class="info__skins">
+      <H2 class="skins__title">skins</H2>
+      <div class="skins__expanded-after">
+        <img class="skins__expanded">
+      </div>
+      <div class="skins__carousel">
+        <audio class="skins__audio" src="./assets/audios/skin-change.ogg" id="skin-change"></audio>
+        <p class="skins__name"></p>
+        <img src="./assets/images/arrow.svg" alt="left" class="skins__left">
+        <img src="./assets/images/arrow.svg" alt="right" class="skins__right">
+      </div>
+    </div>
+  </main>
+  <script src="./js/champion.js" type="module"></script>
+</body>
+
+</html>

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Datos obtenidos desde la API de League of Legends">
+  <!-- FRAUNCES -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,400;0,600;1,300;1,400;1,600&display=swap"
+    rel="stylesheet">
+
+  <link rel="icon" href="./assets/images/league_of_legends.live.ico">
+  <link rel="stylesheet" href="./assets/main.css">
+  <title>Elige a tu campeón</title>
+</head>
+
+<body>
+  <header class="cover-page">
+    <h1 class="cover-page__title">Elige a tu <span>campeón</span></h1>
+  </header>
+  <nav>
+    <form class="form">
+      <input class="form__input" type="search" name="search" required placeholder="Buscar.." autocomplete="off">
+      <div class="form__filters">
+        <img class="form__lane" src="./assets/images/TOP.png" alt="Superior"
+          title="Campeones más elegidos para el carril superior">
+        <img class="form__lane" src="./assets/images/JUNGLE.png" alt="Jungla"
+          title="Campeones más elegidos para la jungla">
+        <img class="form__lane" src="./assets/images/MIDDLE.png" alt="Central"
+          title="Campeones más elegidos para el central">
+        <img class="form__lane" src="./assets/images/ADC.png" alt="Inferior"
+          title="Campeones más elegidos para el carril inferior">
+        <img class="form__lane" src="./assets/images/SUPPORT.png" alt="Soporte"
+          title="Campeones más elegidos como soporte">
+      </div>
+    </form>
+  </nav>
+  <audio src="./assets/audios/over.ogg" id="over" class="none"></audio>
+  <audio src="./assets/audios/select.ogg" id="select" class="none"></audio>
+  <div class="controls">
+    <img src="./assets/images/true.svg" alt="desactivado" class="controls__image">
+    <input type="range" min="0" max="100" value="50" id="vol" class="controls__volumen">
+  </div>
+  <main class="index-main"></main>
+  <template id="champ-template">
+    <div class="champion">
+      <div class="champion__frame"></div>
+      <img class="champion__splash">
+      <p class="champion__name"></p>
+    </div>
+  </template>
+  <script src="./js/index.js" type="module"></script>
+</body>
+
+</html>

@@ -1,0 +1,638 @@
+{
+  "Aatrox": {
+    "theme": "1O67I9qG5DukzgGhp2mGUvAkzmv-hqC7O",
+    "select": "116Usd-FuOpiMXStz3hReSBCX-THFKqSQ"
+  },
+  "Ahri": {
+    "theme": "1BOs1YRoPjsJn1l7Z7cB7IxNPgezAyXre",
+    "select": "1w33Hzpc3Ct99GtvSaFm9NXFQ7qfOsZ6u"
+  },
+  "Akali": {
+    "theme": "1KWFoNZbd8a_iNat3WtAX4TJbW4NgjfvX",
+    "select": "1VyDVq_dH2-yq4io-gmSZXAQXpoDhNFK3"
+  },
+  "Akshan": {
+    "theme": "1-1w17VPvjorYJ8TcuLt8nFtcSd7ig2uj",
+    "select": "1kOp2yq1TErxbeW0ppIQiXxquW9ZqQDni"
+  },
+  "Alistar": {
+    "theme": "1jHReiyC99kVhkAEJMqAxnj5-axHeLYQY",
+    "select": "14hjDL_F3odThUthZ0AZqvQvzqYQOUegH"
+  },
+  "Amumu": {
+    "theme": "1VpAE26k6Os_HeKA63bby8ADorkwFrSbK",
+    "select": "16xKukErrTaQl3-V7LvJ28Xfodeb4EDra"
+  },
+  "Anivia": {
+    "theme": "1Nu-Q17qrQ3_yVhA4yVZp0cseCKfLJpHY",
+    "select": "1HZsZmrCycO17kHaTCYHvmpvNw645fphk"
+  },
+  "Annie": {
+    "theme": "1GdEVuM7C3I0Ij-NSND3pBOUXIN8pXKzB",
+    "select": "14x1MuR7HiDL7dRml8ExU4jCRU9khzy8L"
+  },
+  "Aphelios": {
+    "theme": "1b-Uf8Um1hRlGvQaOFDAkd_1HHZtG9t4P",
+    "select": "1DXpsQfLCfe6bdIm8t_vSZ9I5N402SZfI"
+  },
+  "Ashe": {
+    "theme": "1WKMleRs1HasOGL-zRFlchm7hnetsQKtb",
+    "select": "1EPFt3Ul897FeAgA1jjO44Lz6LX-3JmSu"
+  },
+  "AurelionSol": {
+    "theme": "1dUT10AeuDQ5mbpo5qK-1xsclUl5Po1SX",
+    "select": "1R_g-ILuokcNpzjau1LGJMZ0ToFyuc409"
+  },
+  "Azir": {
+    "theme": "1HbyWCY19V6cqlAxpv54HzNmPVB_AG2eC",
+    "select": "1ud2let62WIg70TTcpa9i_HKL94m0hpZw"
+  },
+  "Bard": {
+    "theme": "1EQ0z0v8UeiSpE94pJvN-WH7iTjrQIWhK",
+    "select": "16MbfYw2cOZfiGuuFI-jsf7EX0AtSTsVN"
+  },
+  "Blitzcrank": {
+    "theme": "1xxNsAZXwtoxqBXtaIu-4oDZzYtNb5uXJ",
+    "select": "1ACmWWA69shcWud903kvhdcgZmrMb7vX0"
+  },
+  "Brand": {
+    "theme": "1oOltrjXV4esIrKPUMPw-mAx_VIy-37Ud",
+    "select": "1SJABpHzUzGWcY6yFEsQlLOtqKxwSu6pO"
+  },
+  "Braum": {
+    "theme": "14Wx29h61bK8sRMLRhKxoO_Mxh0YPYL_R",
+    "select": "1ekc141Fm1bB04GDP8h7IY9iCeyQZE2wX"
+  },
+  "Caitlyn": {
+    "theme": "12FeyGF-D8DdNKTqb72Pps12fgCfJjOs5",
+    "select": "1tvaMGD7HVl9S6m-XUGV5ru-REo50FQUV"
+  },
+  "Camille": {
+    "theme": "1v3A6CqJmqd0OZnrEoAKgCaOP5kIRaccp",
+    "select": "1QPWPVuPevu3Ipv1_egBK9k4RJvtIJOW_"
+  },
+  "Cassiopeia": {
+    "theme": "1-BDBTQJrJCW6uSFcXb_3dpGOhZ9blt-s",
+    "select": "1XFR_u6BiUGhNJJmyVOhfBhAkJ0MRQnWR"
+  },
+  "Chogath": {
+    "theme": "19utINrytpA0tNnK3CKB5hU4koXK3jOYz",
+    "select": "1RoNkoI6cdhwcr3NPh5LSU7WQYDUhkLXy"
+  },
+  "Corki": {
+    "theme": "1JobIKK801GAM3oZgL5kg4USoMrm1AWms",
+    "select": "1z-oqQ60PUUIhtcb4PtEn_g56tJmMN5nd"
+  },
+  "Darius": {
+    "theme": "1dW5QADmcbOI-R9EIwz4BOdjIJBDuhl3Z",
+    "select": "1yZbxk-Lvv4EGYiO301MOxEhC_SxvkEIz"
+  },
+  "Diana": {
+    "theme": "14B1IRBi4yfbP-dvrXVqH9PBBaq6aQZWy",
+    "select": "1bXlfZplmS8c3FQ5jTJL4xmi6xAr-kHgL"
+  },
+  "DrMundo": {
+    "theme": "13fmESi2FaFgx2A7oIcsMIFypJvLmyQMw",
+    "select": "1JuJ-preAq4Mwt-kgoRWvUUqdfDoe83fO"
+  },
+  "Draven": {
+    "theme": "1_8pRqXEzHzcHrhC-P_KKYddZfKhMZqnP",
+    "select": "1JNP9kZuchD6xslR2zwY9dmxFbJ3BQSdJ"
+  },
+  "Ekko": {
+    "theme": "1hwgz_sL5vqB34GcLDvWWpzMGfdrJt7kU",
+    "select": "1kXRoePfGXmrYNc1sAEGcJj8zCBpjjC-v"
+  },
+  "Elise": {
+    "theme": "1au0aho5Azz6eeNUT0N4jQKTjEPoxoaLP",
+    "select": "1dMhUZOFPWQeU0hptxz0D4VENi4ce_58y"
+  },
+  "Evelynn": {
+    "theme": "1MqDvHGB31IN0OYiAoQo3VTYbTiNJldSE",
+    "select": "1v23SW9RRopkz353sPQXpOjnhuxmJtnWW"
+  },
+  "Ezreal": {
+    "theme": "1P0BVKdhL3FpMezsXrk4pXNRlEoTu7VIi",
+    "select": "1OLgDQIZDNsDd9UtiDXVR-x19j0KyMYUs"
+  },
+  "Fiddlesticks": {
+    "theme": "1PWs9g6BizjT8TJfuBIZUHHTEDg5J_Pe8",
+    "select": "1db2GueXaOSimsnjuVt6yMfaJVqLzxmsL"
+  },
+  "Fiora": {
+    "theme": "1jpwr1aMTSBWYWEAsLIDSnSR-GiLmsv2Z",
+    "select": "1YXodK6bf7xcrb4VuEf-4UzV3pokXBacV"
+  },
+  "Fizz": {
+    "theme": "15PLZhuNzSF5OasW2HWdgcGRMrN3sodHi",
+    "select": "161YfET-BAB8c-9EomwgX14mJfbzEl2l0"
+  },
+  "Galio": {
+    "theme": "1CVu7qLoCdQAujLgTVCsp6HHMbKGDFXk6",
+    "select": "1Ohv6j4V8p0iOY-eNeMJGt_IW2IQMLN6p"
+  },
+  "Gangplank": {
+    "theme": "1wtBQ6hq541MQ8ub10QZC4WiRUPr43JHN",
+    "select": "1E7-d1HUSjS6cWNv1DnhYs_lPb2b0vuK3"
+  },
+  "Garen": {
+    "theme": "1JyueoNxrxJx5XBpAXlcocFs69dBsED7t",
+    "select": "1_jGhuISgd7-6rUm-K43JO5Jh8RaRwhBb"
+  },
+  "Gnar": {
+    "theme": "1zLbGLHfS7NI-Fymm55N7D3G0cc_tOrTm",
+    "select": "1ix6IsPqo3bDtoGWNh68ZpT2wqe5Mfaq3"
+  },
+  "Gragas": {
+    "theme": "1BSNE7uyMHcZq49vZsjws881u76kEFg4V",
+    "select": "159wbQNDmwKY6vyvsNDDE4hKE3YlcDVcG"
+  },
+  "Graves": {
+    "theme": "19IdJAlGbA1EW_Ju8MBETAlQWtzJBN4g7",
+    "select": "1Rstk-_K5tgK2G9m5SG1iUJeoXCy0mT2z"
+  },
+  "Gwen": {
+    "theme": "1FH360505XK5B5WLyP8oaP1Zy10sR_1fX",
+    "select": "1_cSnFG6sdgBWmCl1OOwV13LBEH7DJfak"
+  },
+  "Hecarim": {
+    "theme": "1bpPVa_6AyhWeYTZI3JOOPaI-q6_lGMLM",
+    "select": "1mbM7xRbaXYFSE3zHpS489yImfKFgPKpA"
+  },
+  "Heimerdinger": {
+    "theme": "1OA87VhhN46XPzkvvF2wr4R8yN0tZa3ak",
+    "select": "19dWWvKID0bOC12g_pBYN6sDvdMFdv736"
+  },
+  "Illaoi": {
+    "theme": "140NNns9gUMhmPuR1HKtEi_QC0Qce3tzL",
+    "select": "1m9DhlLnh0GxwNSD7KFfZVXHUKq81j3fV"
+  },
+  "Irelia": {
+    "theme": "1j2XWZQbomqz08qyYiT9pVLRWUt8kq-2Z",
+    "select": "15VB29d-vEh0N8FsJN_HpfH7E-plPkrEN"
+  },
+  "Ivern": {
+    "theme": "1x9vhHNZTf-kf8mI4XOD-lgza2wGtfihc",
+    "select": "1xKtlVWynj7QwCgmZtXLhehC7cewXFfMJ"
+  },
+  "Janna": {
+    "theme": "1odxwsmWDnP8kgyQj66YFNv5fOe0Bb5Ke",
+    "select": "19WVubra6hY79oGoTkHEPJvPfhy6TI0of"
+  },
+  "JarvanIV": {
+    "theme": "1_pu8s9WlRtEcPW68exeU2Vl4geF0824N",
+    "select": "1Oo9J73qjwDeWfm2W8VOxDsehBRM1MrSq"
+  },
+  "Jax": {
+    "theme": "1cOg22-Oc0Q5trCDUl0251FiI_cdc8moG",
+    "select": "1LqyLkmG8yDzt3yQpTfB4IgTcGSIN7_wS"
+  },
+  "Jayce": {
+    "theme": "1gBgMDLHHV0056voTcba6PaYawXGYVy45",
+    "select": "1Kp-yyYrzPmch0Hv473HiEMnn2Ny4YFgL"
+  },
+  "Jhin": {
+    "theme": "1V77Z8-zrS4NWpggv2kjRqmDK960uJw1B",
+    "select": "16xDJkC6MxstAmUNevftUqeqMnd9rqo69"
+  },
+  "Jinx": {
+    "theme": "11ynfPvzfAcMYtmvylxNBdGmDNXPZLEnv",
+    "select": "1ml4dLdd3B4KIRsADSwa6Axf9pD_AWnXU"
+  },
+  "Kaisa": {
+    "theme": "1kwqRPZO9epFVt5-s2bi_W9HSW7g3mOAm",
+    "select": "1go31c7H5CwkzCOxoXhGgZpmGdXGGqUpr"
+  },
+  "Kalista": {
+    "theme": "1As6ahl-srbCIYbxRclr6CkK5PTCYBcZb",
+    "select": "19HuCzEfTIVQwvV7jWzvgrZcVTxLnofU9"
+  },
+  "Karma": {
+    "theme": "1ZawXI5WtWiHccZ4JF11foGGdE7edXPSc",
+    "select": "1_OIiL54tpWZmhbkSaMuYT6X-xXATDpiI"
+  },
+  "Karthus": {
+    "theme": "1H6bkGnpHIclWONxd7ytxgKTT-vFiWufn",
+    "select": "1t2qu3SXVyJuDUWWFwdzpt9t7moBYkxgV"
+  },
+  "Kassadin": {
+    "theme": "1kqLPsGAb-Lo9_dNmz5sGr1BoAx18ngG4",
+    "select": "1WTJvATHnTFcZg7PFM5WWtByAVpP9dKU9"
+  },
+  "Katarina": {
+    "theme": "1EKA5lNFVFYkt9iDzLx_g_oUIWFQHbEXh",
+    "select": "19nMILMyc2scOknZQocHp9Al_2lRbYlAr"
+  },
+  "Kayle": {
+    "theme": "1zDaMi4hLOasQSFPH-i0-EjPK7H9YbqIU",
+    "select": "1QHHSn0qFvcxYKueqtppIIoFGDQFEGnCx"
+  },
+  "Kayn": {
+    "theme": "1VxBnvvZe9DhggpVPoAJsQAV1xYGTtsp2",
+    "select": "1aeHSbOhLX-oOQ7TcyQ2NgfIzvAB-7RYU"
+  },
+  "Kennen": {
+    "theme": "12BHpCKkWPc5ConOLXyxzJcp6d7mK_5UO",
+    "select": "1rfd2vlbOq06csU20RyBllbuh0JrXv4dw"
+  },
+  "Khazix": {
+    "theme": "1pxiK63nOYuYN1AuT764s7xQ8PuhfsV4z",
+    "select": "1uailLTjT-__NFtj4iEy2cwNZ8Ui8rMZR"
+  },
+  "Kindred": {
+    "theme": "1b9vE1K6j9UqEuGtIgJpZShB4qzIHO7MF",
+    "select": "1KoSSHfC5R41-jZOdQUq14RMTATsxUeez"
+  },
+  "Kled": {
+    "theme": "1uuhFgXaaTmZ-ydQNbaD-pIZQcwgIapa4",
+    "select": "1bnpSCNmEjFwvPCbDANIMFz-PlFAxym8Y"
+  },
+  "KogMaw": {
+    "theme": "1Ld1rLGAmw6K0FDiazpGwjbHsvJoGx3e0",
+    "select": "1qjhxaWWKxCdAMZpsU9JUv-ykKOqlHM-L"
+  },
+  "Leblanc": {
+    "theme": "1kjdoX6PpgIstQYhy7ZlqkgbBKy1ref7p",
+    "select": "1Bt7WKfVljuP47bMde8zzTgwLoixxUppE"
+  },
+  "LeeSin": {
+    "theme": "18d_FiaICmCRApfrSFTujYwUH_c0i1Wun",
+    "select": "1V_CWATpA64rfxMp9T3hkaN8hKQo8GBdQ"
+  },
+  "Leona": {
+    "theme": "1pSrnuBwF0rtX90C3s34dbCZPSrLuQJ2Y",
+    "select": "1XwpsHPIKitezN5-GSuumzTXsesh2GfES"
+  },
+  "Lillia": {
+    "theme": "1Ym4sMJr8fVNzifHqZ8TOKKBj4sqlbuxb",
+    "select": "1uohZ7YQU1Y0Zq2ASX3kF7meu5gHKq7CT"
+  },
+  "Lissandra": {
+    "theme": "1AAs9DIQMS8LlO44acdBKlFKQK_agU4BN",
+    "select": "1JSPVdJIUCmhhA2RCr3ivy7BSl-twd0xJ"
+  },
+  "Lucian": {
+    "theme": "19GH-CCf6FNgS8ZRylgJJZEOr7SIq7zHP",
+    "select": "1CnNhtLeeMv0qio6xKt2E4DhLZoc_jEgE"
+  },
+  "Lulu": {
+    "theme": "1YyNiKzcrTCdEIqA6nOsSsK2C32WSemFU",
+    "select": "1gVOlfwbO10h_Te4LWj1WRwkeEV9HIroo"
+  },
+  "Lux": {
+    "theme": "1Wc2wLBy3w9I01KdFOTg8xP4FqejRuk1F",
+    "select": "1VgrGK8LlD7547pLbgZnwdra23AXYsKkP"
+  },
+  "MasterYi": {
+    "theme": "1USba7KDKpW3xP_Ev-pbUhfdQlOrhXH4L",
+    "select": "1IS7Lk9RTHKDmOXJ0tt-mn-Zx_4uPexOk"
+  },
+  "Malphite": {
+    "theme": "1AOas_l-dzYZqCutQK0nGzRRMDR-2KqHh",
+    "select": "16K2qIQu_sEo8WagbUO1iqjYmahGWSl6k"
+  },
+  "Malzahar": {
+    "theme": "1T42WaKV4jTePYkctOIUCyO0W4iNnNErm",
+    "select": "18gIen0jWxlUfiuNmacoMw2T8WuhsVbBC"
+  },
+  "Maokai": {
+    "theme": "163YbcdcciKjIQCeDrIGR0eorl0ZYYAxp",
+    "select": "1uitsENclVbVccB3f6KR1wzTcqdyQuQIt"
+  },
+  "MissFortune": {
+    "theme": "1-Jvq2br-RhY150s4O73DL17WoGCWhut8",
+    "select": "15f05ha9JcN_3-Nl091gYE9RU1ckzmQlL"
+  },
+  "Mordekaiser": {
+    "theme": "1aCXdOUbKjUAS9KPjykhrkI-xOsyIUkOe",
+    "select": "1WrXn_xNZtQjW7FSkZlYCyN9O4jjXZIXq"
+  },
+  "Morgana": {
+    "theme": "1fHP_YIYCsPd7Jytq7NVLY1VKwHAQ1Nf5",
+    "select": "1sw5opny524Iv_dpG2o5bt1O1GaOQ7dWN"
+  },
+  "Nami": {
+    "theme": "1y0ISejbzhP67iDsjMHOqav-Hlae4y8UO",
+    "select": "1trFW4dhL3HZ3vdIQuAX5gYCvPVlx8hvC"
+  },
+  "Nasus": {
+    "theme": "1TeP6oHaFFiKEnUcvPQuYUbT87yTWyVHh",
+    "select": "13zd7k3_Er0RKXG6-0_szfHjPu-Anjxuz"
+  },
+  "Nautilus": {
+    "theme": "1qXuuW1MUnSWT6etsk28H-vn4wtbzSD2B",
+    "select": "1IEvvYbEczX0PjVidO_QC557jEPIfR4cd"
+  },
+  "Neeko": {
+    "theme": "1lanrTmTIsZr4khMx25KqqyKR-p7cne5m",
+    "select": "1f5r_fL_xFfJbwIGiy49SMfo0Tb39_mhb"
+  },
+  "Nidalee": {
+    "theme": "1kkGbFQc2qMoRLq8cxz5kS46sT5eg9DMJ",
+    "select": "1SgLGaG12dwb_Geo-MMY8I5Nee9uzYBN9"
+  },
+  "Nocturne": {
+    "theme": "1Sfdw01cDuYWc4lTMPyehqqzWfm7z_uux",
+    "select": "1JoxTk2fVOM5Eq98d6ffO1ZsMpqP7kQee"
+  },
+  "Nunu": {
+    "theme": "1nUyKHFb4RlAziO3DOi6VnlzF0GTptV5o",
+    "select": "1USAz0uwTlWkbOG143P3-h1DOTIfQML9J"
+  },
+  "Olaf": {
+    "theme": "1tivVSGvN-o7cofFQX4r3srLtI3Duu8-I",
+    "select": "1daau_fTRwTj_ZDH74N63L6onXYYNCYzl"
+  },
+  "Orianna": {
+    "theme": "1wIfqpJBmt7D_pP43QGnmjtgFkBAsU49y",
+    "select": "1VLE-Q3TRQABUHOmsg5B9u179Uu15W5LM"
+  },
+  "Ornn": {
+    "theme": "1SP9S7H8Ec8_YGhvSZHLNZxWSP5J_FBbG",
+    "select": "1L8-RB0U3g9CBRipBsRPjdHyngM9uuGBq"
+  },
+  "Pantheon": {
+    "theme": "165x23zEAb4604OKPna1mFbYZ12V3TMHM",
+    "select": "1ntyHWL4s6RNHOg6qt-JH77CYRefc4GlT"
+  },
+  "Poppy": {
+    "theme": "1sCtRzpm-paCplkWuk4SP6yzKQ3WeBjK-",
+    "select": "1Etjlt4-WNus5f1mr5ky_X05wBsQ--d4u"
+  },
+  "Pyke": {
+    "theme": "16Vr-o2vpFQNKtRAH6XRK8kltKQ63DQYn",
+    "select": "1ios0V-xXJ5UDL-5wmWKO5UxZ-_NQKS6K"
+  },
+  "Qiyana": {
+    "theme": "1muSVP5Mdfb7-a2lyN1SpuO3baiCsBd3X",
+    "select": "13kHPP_DWFZh7e27kVtaJzjLrXydYxzb6"
+  },
+  "Quinn": {
+    "theme": "1ROGwn8ROx6UsVdECKKjz6zk7gEwLZQUk",
+    "select": "1DHUg15eVJwMWDkiICtGvadn6i8MNoc03"
+  },
+  "Rakan": {
+    "theme": "1LxpENmRC5UkCDkTltN_lYnwTSmc3fT8f",
+    "select": "16GWApyAwkI70Jl92w-v0HmNkeU2EeE2I"
+  },
+  "Rammus": {
+    "theme": "1cko5WEr_FxNr2FafRuWPAqjG6Mq-4dSt",
+    "select": "1yT7VFW8rXXI3tNVQOf5TNhjl1_zQ9rah"
+  },
+  "RekSai": {
+    "theme": "1y9-JIWVV0DjYmgoJFwQwnPRVgs0rjfLu",
+    "select": "19fQ89uAIpLWxEQVmR-iT67ZiTQ0jxiku"
+  },
+  "Rell": {
+    "theme": "1l7f4r2S5SIE4za5GIOn39cFBQEeiW62j",
+    "select": "1TD0a4x3ktYpP1r1zgk8hKn4LFMk3pdfY"
+  },
+  "Renata": {
+    "theme": "1Ijf08B2spJbYWe0Lthn7d4nqIJHxMjrX",
+    "select": "1w5gYXSTWCrMdFmhxexzSKdV7w_RGtGKz"
+  },
+  "Renekton": {
+    "theme": "1bIa7WrZyxxJ4EEsLua-i0fuUxws-uCgu",
+    "select": "1V1-czCKa3q-l5GnhdHEgkA3oJ4ZLmSLM"
+  },
+  "Rengar": {
+    "theme": "14gsOcXn0xFrP69wHqhyjRPLlW40iYrCI",
+    "select": "1sjKske2UdBGqkeqoBRZG9pnS4qv3mfdn"
+  },
+  "Riven": {
+    "theme": "1S7Ga26ht2-JgyWjORyjOdAF7f4qWqZQS",
+    "select": "1esJIj-0IZIlmRoFxAMCx9D83WaAsgSiE"
+  },
+  "Rumble": {
+    "theme": "1bCQbU7dOXXpgMuCbA3EoXra9nAUtTDXf",
+    "select": "1Mzy_gW_7G4XRnr1JEozHGoKLxKEoMYeC"
+  },
+  "Ryze": {
+    "theme": "1m6H6V9riCtvf8dIRtwbUMJDjsHNkqw-4",
+    "select": "1Ivn7GG632f__1v6DZmNzqFXaFvO6DO6-"
+  },
+  "Samira": {
+    "theme": "1ZvvdUyj8V0ddMI35fmo3-D8Rnc7E6ite",
+    "select": "1piLwrvGQ32z7o9_I-bXzRa1qYEUBupbt"
+  },
+  "Sejuani": {
+    "theme": "1dzqxOyVCmXcS-1QQkVyTO9xDj-wNWvFH",
+    "select": "1OuDDJJxsOp7VcAlWAHPO3dEQidPZbsO-"
+  },
+  "Senna": {
+    "theme": "1JH4zEKLg1TvhJf0R25UEE_dzmlC81MdT",
+    "select": "17DovTr02OklWTDywE-g2vV4LyHxxsBFT"
+  },
+  "Seraphine": {
+    "theme": "1Pj-fk-TfnAn-f0APcoa2sTulV-lpjOQs",
+    "select": "1X_VDqMUeoeh2DUyQScigkMx7g-NiPFAi"
+  },
+  "Sett": {
+    "theme": "1i01owVx8trq84Pb6CVeecz3ZX-kxHVk-",
+    "select": "1YJ-gJ74fduxfHtBwbFMhKBVD3umdl1yu"
+  },
+  "Shaco": {
+    "theme": "14P4cBExayFiu71asUaytbTyUauGVA5g7",
+    "select": "1o-blwscBJUAfLFbSZm9AYnLyHAGTKI_u"
+  },
+  "Shen": {
+    "theme": "1E3JlRIeFhvt0UsFlcV2qQaO-F2A_0AS4",
+    "select": "1gMbPZC0oZEIGOtSnYsCOrioFRbqu2oUK"
+  },
+  "Shyvana": {
+    "theme": "1UfyOuh2vOMYptU-H7_ROSBGhbpp42BG0",
+    "select": "1YrFq2XlMRnhkXBqiF_XqhdVdmmB75jcI"
+  },
+  "Singed": {
+    "theme": "1k2cHmIMwnWvLE3LqY-9YMRGrNBi96Mmp",
+    "select": "108Cc0feYrr5E3qn2PSj0RLMWYIX1f5hk"
+  },
+  "Sion": {
+    "theme": "1y3dqRTyMB7t1hEPBmF0cCAG2B5ZzRSAA",
+    "select": "1mZn4ZrYhRZE53p8G-oneaDILRWida9kn"
+  },
+  "Sivir": {
+    "theme": "13Qyi4iWlSvYv4lSP5W_Rv2VU4N3MW02U",
+    "select": "18jExMDJ8y8Kg0pOYezoMAwhh3nZRdESn"
+  },
+  "Skarner": {
+    "theme": "1Dr4y6aFnxeIkU-IfDua8BMPNNV9tZseE",
+    "select": "1MIbpZgNqRr2sq4GELjXjsBtZ-pomXg_y"
+  },
+  "Sona": {
+    "theme": "1InUX9owHwEka3CvsVrN5oOfn1KLY63EQ",
+    "select": "1sPZXRUQuKkWRpdwdmP82roecK2KXBMcu"
+  },
+  "Soraka": {
+    "theme": "11RcjgxpNyUCH7IsoDyAwZ8QrvbT9y62o",
+    "select": "1X1IpDS6DAWOaEdRPKRZuE43-0qKhcAOa"
+  },
+  "Swain": {
+    "theme": "1OoihBzFLjW6aXjokHUfYqjLP9tLyJPiD",
+    "select": "1uGVHdXmnWwIa0G9YLBLlStmCzW5iHJaK"
+  },
+  "Sylas": {
+    "theme": "1r6IvksVhQxgSvRteJKSzHwiPCetIzx6B",
+    "select": "1N6aCJWYEC66YG-S471FVozzhILElLPXK"
+  },
+  "Syndra": {
+    "theme": "1XYNwTSGEanEMa35MV8g2zTVAIc-qw6rQ",
+    "select": "1vhqEGXS-fWybbMt1F7NLqRlbgsLKQHvk"
+  },
+  "TahmKench": {
+    "theme": "1KLRdOD9LrdvYl9Bm-02PbDgkdCdrf0ZE",
+    "select": "1nwPvgwFEsjmvZ8TEKBjHSgyc0rNY6wCG"
+  },
+  "Taliyah": {
+    "theme": "1xJT4-DmiQES7f65Qh-jjCAHM8gEy0QDY",
+    "select": "1O2aiyZR0GwxMNULO5qHbOiiN35b4SaYs"
+  },
+  "Talon": {
+    "theme": "1zl56AStbWpAQkwzQSIjO08-pH2JTKRvc",
+    "select": "1Ku1LK5UuHzqZAJuJAAxH5j96rQIJyGq2"
+  },
+  "Taric": {
+    "theme": "1BKne5AMCuv0kvtMQwOtWvFLGphUjq04g",
+    "select": "16RUCiPKAfOmGijdEeWmneM114TpwYXmo"
+  },
+  "Teemo": {
+    "theme": "1bukU_2QloKPsNOGbUPdQNZruAvhS2BGv",
+    "select": "1diwWmq4IXv3k8V2UGCzq4v_00BjtgTR1"
+  },
+  "Thresh": {
+    "theme": "17hXVQQPIi-vkgHrbVNh3RqrP2WaODli6",
+    "select": "1xmkwtFVZ4DmAsXr2FDbXVYyBaAVQAnAI"
+  },
+  "Tristana": {
+    "theme": "1YSMw6ilOHiyLlhsZIBBXRT2r3QQY8Hzb",
+    "select": "1DolfPHeVpKZrSX5LXZaNWgubg5f5Qn5G"
+  },
+  "Trundle": {
+    "theme": "15-G0BM7GGQ6aCzRAkRMeJHH5T5aYjA6Y",
+    "select": "1VejYEfUCbNmp0QOhsfEndE0OvPAKy1fx"
+  },
+  "Tryndamere": {
+    "theme": "18U0UiNbJ3d3HDEhSvlmV_UxPAu-W0ATs",
+    "select": "1xV6NAOosmEWsjpzKr3ktaOwXV20YwY3K"
+  },
+  "TwistedFate": {
+    "theme": "1_hRJsWNg0PpgxPM-HNvbCCScx0anczze",
+    "select": "1Jabs5Bx3IENRj-wh7NCIH1xmWO1M_d9b"
+  },
+  "Twitch": {
+    "theme": "1_BUN5HN-1Ax-ak-g34TeqZ4nTTFHKmbq",
+    "select": "1-uIapAkSOhrcBlgIwGmT_QjG38y8-svW"
+  },
+  "Udyr": {
+    "theme": "1PP2JlGWtoWLgAmj-dCtlDuvplfq67F_H",
+    "select": "1W0l_L63NKztsBIaeoMqD8Es54zsaMXaz"
+  },
+  "Urgot": {
+    "theme": "1RAZzczN4-MINn6ue19XCG7BtWKNfo_98",
+    "select": "1OCOJbwZNtTMI7APxp3bPy8RDOrph1GQW"
+  },
+  "Varus": {
+    "theme": "1TBnkBNv2APm7PwDm2bHhJCa7MTdGDnFi",
+    "select": "1on15A9Fq1YJO-8Rqyx0E2bFFbAWwfC-r"
+  },
+  "Vayne": {
+    "theme": "1BQc6ZuIAh__YNMtSxAYvbYNG1nrLnwdw",
+    "select": "1yvUJ29g7etnx4Y-FUFn7ruDS6db0XG6I"
+  },
+  "Veigar": {
+    "theme": "1t-VAphb3gRH2ZNGMcNYajVUuA6nvVFYB",
+    "select": "1xmGq0NglOGRH4viQw8OlbduPzvMuFGX0"
+  },
+  "Velkoz": {
+    "theme": "1v_pv5RZNb5mqM8J8PYlBxr3hG2T9B6mx",
+    "select": "1ql0W9sfE6947KOHtjQJmaRHSvjsN7A5-"
+  },
+  "Vex": {
+    "theme": "13Z-6D2El3FVAr0H4iOXVkPGA1ZhKkn0m",
+    "select": "1wVdieiPBtfL207Vtq6McI9qaP7z8cbML"
+  },
+  "Vi": {
+    "theme": "1eY0uPDvbD61PaO2_zNjoDJ4EsdbSAzDu",
+    "select": "16wOMe9CRaWxxno0JGNvdFLHZAILpTsTt"
+  },
+  "Viego": {
+    "theme": "1mvlS_-TQaC7MwKFa5m9S51rVXgtMvnju",
+    "select": "1JYDoflsvgExKOAT_9CA2RWg44lEU040s"
+  },
+  "Viktor": {
+    "theme": "1pwIEf6JEMuAb9sb3b57n8KzqBKM2Nuc1",
+    "select": "1znWT8DFnLt7ShOWbIvsH3ElYNXgE8x1Q"
+  },
+  "Vladimir": {
+    "theme": "1E6f6O6VrJVIAk2RiNPrAWDRENbTjNvqs",
+    "select": "1g7QX_dYtnfh6LhiyK0hFvb5eyxE451BG"
+  },
+  "Volibear": {
+    "theme": "12RJ2wrn6H-_09p0Wx0yV9aTwf7-fez7N",
+    "select": "15Ldnq5p2yYl2s7v3HbwDSgjOT1FBbXe8"
+  },
+  "Warwick": {
+    "theme": "1uLXkXsdRREi6iGIkTuCIaa3WO2w6a6e3",
+    "select": "1I8AildlgL6tKPI6KnxEAiQGQx1Kr5RJs"
+  },
+  "MonkeyKing": {
+    "theme": "1NMZdLdEOj38JODmTQaJO7Oec-M4ePXBZ",
+    "select": "1qFsBA3HK5hXEMWBzMLTtYyC1y5eSP8Ky"
+  },
+  "Xayah": {
+    "theme": "1Kv45crtnWGCfpOdRA6dLlQk2xuvaIlS0",
+    "select": "163RvrEnWV11Z2XI-Ly-11NC5CbVzqk-v"
+  },
+  "Xerath": {
+    "theme": "1iC6PJIXjVsBi_aFnrFliw7v7h_1MipHz",
+    "select": "14k-fxL_welIrhy4o39Zw85M5yOeI08ha"
+  },
+  "XinZhao": {
+    "theme": "1aR_O-TdC6P9QkX139215FY8OMDNZ_PDm",
+    "select": "1fLTYfkfimpHVqr8LhdezRQnklKuZ4mTT"
+  },
+  "Yasuo": {
+    "theme": "1djvId_Z7FSvbfVk8zIdSDQj1Zm39h9Cv",
+    "select": "12QIvfa7Fppm8WD8HIMY7BFmaF131aFw7"
+  },
+  "Yone": {
+    "theme": "19q8D5E6vDadLbQE4mzQe9-EMmybnXYAj",
+    "select": "1pHb_y6mz-RfOSLbr_eIk_JGf7FXH0L69"
+  },
+  "Yorick": {
+    "theme": "13PUx6SL41QTrbRiWiH_NqUbWguB3LoeN",
+    "select": "1Z5awT6HD321QabZp4VztCTvZjq5c-IwZ"
+  },
+  "Yuumi": {
+    "theme": "1Va5X7YGhMKuTmIJsqKL0m63YDeiW1tSG",
+    "select": "1KbM0gu-f0Cbj2CpqL_1ameyNKHBssyDU"
+  },
+  "Zac": {
+    "theme": "1FkSBIksSFiYu7ZBLemVbM1_Q2ZXx6nol",
+    "select": "12HK58jn6VnYDHc19wPPHej72PCoo1bW7"
+  },
+  "Zed": {
+    "theme": "17-GtBelMiizwpNgirJioq1IeJ4xyZ-Lc",
+    "select": "1EY8ISINqdiyezTkQ87iV19A0wssiSrnf"
+  },
+  "Zeri": {
+    "theme": "1e6YUCVMU6FoqY_B8P_810t_rRzODvo0G",
+    "select": "12X_hv9YimvfeQw7NKHefd-ZhsZFNmr-r"
+  },
+  "Ziggs": {
+    "theme": "1Wy1pdUaIyG1CFrtK5YPNoq_ScA3OH1_f",
+    "select": "18bSQAhO9ROj-3jhxS3hEgNkCrQFPfDL1"
+  },
+  "Zilean": {
+    "theme": "1O89njs_z2NKv9dj7Hdi-qgE2B8B7cAAe",
+    "select": "1Re9PdRcrjHZi8WT3MGvFrnicQi2Auk5p"
+  },
+  "Zoe": {
+    "theme": "1c_fVeCrr56pLgIP2zk7LZ77-KuL7PNaz",
+    "select": "1sUGT_76xUIcWm2sqiMJ2HaO5l8VpSkw9"
+  },
+  "Zyra": {
+    "theme": "1QnbNeKe1VdTknx7rQx1w1P56nNvefEvd",
+    "select": "1gPI8U3vbDia_jeCUtqMXxbRbitS3KtSL"
+  }
+}
