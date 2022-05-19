@@ -48,6 +48,7 @@ const printChampions = (championsEN, images, positions) => {
 
     $img.setAttribute("src", images[name]);
     $img.setAttribute("alt", name);
+    $img.setAttribute("loading", "lazy");
 
     $paragraph.textContent = name;
 
